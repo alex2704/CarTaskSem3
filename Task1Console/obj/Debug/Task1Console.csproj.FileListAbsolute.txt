@@ -1,0 +1,9 @@
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Task1Console\bin\Debug\Task1Console.exe.config
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Task1Console\bin\Debug\Task1Console.exe
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Task1Console\bin\Debug\Task1Console.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Task1Console\bin\Debug\Utils.dll
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Task1Console\bin\Debug\Utils.pdb
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Task1Console\obj\Debug\Task1Console.csprojResolveAssemblyReference.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Task1Console\obj\Debug\Task1Console.csproj.CoreCompileInputs.cache
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Task1Console\obj\Debug\Task1Console.exe
+C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Task1Console\obj\Debug\Task1Console.pdb
