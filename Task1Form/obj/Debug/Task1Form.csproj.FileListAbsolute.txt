@@ -10,3 +10,16 @@ C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРО
 C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Task1Form\obj\Debug\Task1Form.csproj.CoreCompileInputs.cache
 C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Task1Form\obj\Debug\Task1Form.exe
 C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Task1Form\obj\Debug\Task1Form.pdb
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\bin\Debug\Task1Form.exe.config
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\bin\Debug\Task1Form.exe
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\bin\Debug\Task1Form.pdb
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\bin\Debug\Utils.dll
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\bin\Debug\Utils.pdb
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\obj\Debug\Task1Form.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\obj\Debug\Task1Form.YourCar.resources
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\obj\Debug\Task1Form.Properties.Resources.resources
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\obj\Debug\Task1Form.csproj.GenerateResource.cache
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\obj\Debug\Task1Form.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\obj\Debug\Task1Form.csproj.CopyComplete
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\obj\Debug\Task1Form.exe
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Task1Form\obj\Debug\Task1Form.pdb

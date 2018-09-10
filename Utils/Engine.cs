@@ -8,7 +8,6 @@ namespace Utils
 {
     public class Engine
     {
-        //private bool engineStatus = false;
         public bool EngineStatus { get; set; } = false;
         public void StartEngine()
         {

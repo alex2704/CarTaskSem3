@@ -4,3 +4,9 @@ C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРО
 C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
 C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Utils\obj\Debug\Utils.dll
 C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Utils\obj\Debug\Utils.pdb
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Utils\bin\Debug\Utils.dll
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Utils\bin\Debug\Utils.pdb
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Utils\obj\Debug\Utils.dll
+C:\Users\Sasha\Desktop\Аттестация 3\Task1Console\Utils\obj\Debug\Utils.pdb

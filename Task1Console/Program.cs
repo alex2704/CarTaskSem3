@@ -61,9 +61,10 @@ namespace Task1Console
                     {
                         TurnOffCar(car);
                         Random rnd = new Random();
-                        int randomNumber = rnd.Next(0, 3);
+                        int randomNumber = rnd.Next(0, 4);
                         car.wheels.RemoveAt(randomNumber);
-                        Console.WriteLine("Колесо{0} заменено", randomNumber);
+                        car.AddWheel();
+                        Console.WriteLine("Колесо {0} заменено", randomNumber);
                         StartCar(car);
                     }
                     if (choice == "вывести марку автомобиля")

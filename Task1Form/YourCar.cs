@@ -35,7 +35,7 @@ namespace Task1Form
                 car.StartMoveWheels();
                 Engine_box.Text = "Включен";
                 Wheel_box.Text = "Приведены в движение";
-                SoundPlayer startsoundcar = new SoundPlayer(@"C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\car.wav");
+                SoundPlayer startsoundcar = new SoundPlayer(@"car.wav");
                 startsoundcar.Play();
             }
         }
@@ -47,7 +47,7 @@ namespace Task1Form
                 car.engine.OffEngine();
                 Engine_box.Text = "Выключен";
                 Wheel_box.Text = "Не двигаются";
-                SoundPlayer stopsoundcar = new SoundPlayer(@"C:\Users\bakul\OneDrive\Рабочий стол\АТТЕСТАЦИЯ ПО ПРОГАММИРОВАНИЮ\3 семестр\1 аттестация\Task1Console\Stopcar.wav");
+                SoundPlayer stopsoundcar = new SoundPlayer(@"Stopcar.wav");
                 stopsoundcar.Play();
             }
         }
@@ -72,10 +72,11 @@ namespace Task1Form
             ClearBox(Info_box);
             StopCar(car, Engine_box, Wheel_box);
             Random rnd = new Random();
-            int randomNumber = rnd.Next(0, 3);
+            int randomNumber = rnd.Next(0, 4);
             car.wheels.RemoveAt(randomNumber);
+            car.AddWheel();
             Wheel_box.Text = "Заменено, готово в к движению";
-            Info_box.Text = "Колесо заменено";
+            Info_box.Text = "Колесо "+Convert.ToString(randomNumber)+" заменено";
         }
 
         private void Btn_showModel_Click(object sender, EventArgs e)
@@ -83,6 +84,17 @@ namespace Task1Form
             ClearBox(Info_box);
             Model_box.Text = car.Models;
             Btn_showModel.Enabled = false;
+        }
+
+        private void Volga_Click(object sender, EventArgs e)
+        {
+            ClearBox(Info_box);
+            SoundPlayer startVolga = new SoundPlayer(@"Volga.wav");
+            startVolga.Play();
+            Btn_showModel.Enabled = false;
+            Model_box.Text = "Черная волга";
+            Wheel_box.Text = "Крутятся диски мерен бандитский";
+
         }
     }
 }
